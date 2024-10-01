@@ -1,0 +1,291 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    overflow: none;
+}
+body{
+    background-color: black;
+    overflow: none;
+}
+h1{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    padding-top: 10px;
+    text-decoration: double;
+    color:crimson;
+    overflow: none;
+    
+}
+h2{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size:medium;
+    text-decoration: double;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    overflow: none;
+}
+.sun-menu{
+    background-color: black;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    height: 100%;
+    right: 0;
+    width: 500px;
+    overflow:hidden;
+    display: none;
+    transition: all 0.1s ease;
+    background-image: url(resources/sun.jpg);
+    background-size: cover;
+    background-position-x:30%;
+    overflow: none;
+}
+.earth-menu{
+    background-color: black;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    height: 100%;
+    right: 0;
+    width: 500px;
+    overflow:hidden;
+    display: none;
+    transition: all 0.1s ease;
+    background-image: url(resources/The_Blue_Marble_\(remastered\).jpg);
+    background-size: cover;
+    background-position-x:0%;
+    overflow: none;
+}
+.mercury-menu{
+    background-color: black;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    height: 100%;
+    right: 0;
+    width: 500px;
+    overflow:hidden;
+    display: none;
+    transition: all 0.1s ease;
+    background-image: url(resources/Mercury_in_true_color.jpg);
+    background-size: cover;
+    background-position-x:0%;
+    overflow: none;
+}
+.venus-menu{
+    background-color: black;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    height: 100%;
+    right: 0;
+    width: 500px;
+    overflow:hidden;
+    display: none;
+    transition: all 0.1s ease;
+    background-image: url(resources/venus.webp);
+    background-size: cover;
+    background-position-x:30%;
+    overflow: none;
+}
+.mars-menu{
+    background-color: black;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    height: 100%;
+    right: 0;
+    width: 500px;
+    overflow:hidden;
+    display: none;
+    transition: all 0.1s ease;
+    background-image: url(resources/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png);
+    background-size: cover;
+    background-position-x:0%;
+    overflow: none;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(resources/space.jpg);
+    background-size:contain;
+    overflow: none;
+}
+.sun{
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    background: url(resources/sun-ezgif.com-effects.gif);
+    background-position:50% 50%;
+    background-size:contain;
+    position: absolute;
+    border: none;
+    transition: all 1s ease;
+    overflow: none;
+}
+.sun:hover{
+    height: 800px;
+    width: 800px;
+}
+.sun:hover ~ .earth{
+    opacity: 0;
+}
+.sun:hover ~ .venus{
+    opacity: 0;
+}
+.sun:hover ~ .mercury{
+    opacity: 0;
+}
+.sun:hover ~ .mars{
+    opacity: 0;
+}
+.sun:hover ~ .sun-menu{
+    display: block;
+    opacity: 0.8;
+}
+.mercury{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background: url(resources/Mercury.gif);
+    background-size:135%;
+    background-position: 50% 50%;
+    position: absolute;
+    align-self: center;
+    margin: 165px;
+    animation: mercury-orbit 10s linear infinite;
+    transition: all 0.25s ease;
+}
+.mercury:hover ~ .mercury-menu{
+    display: block;
+    opacity: 0.8;
+}
+.venus{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    background: url(resources/venus.gif);
+    background-size:115%;
+    background-position: 50% 50%;
+    position: absolute;
+    align-self: center;
+    margin: 165px;
+    animation: venus-orbit 15s linear infinite;
+    transition: all 0.25s ease;
+}
+.venus:hover ~ .venus-menu{
+    display:block;
+    opacity: 0.8;
+}
+.earth{
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    background: url(resources/spin-world.gif);
+    background-position: 50% 50%;
+    background-size:200%;
+    position: relative;
+    margin: 165px;
+    animation: earth-orbit 20s linear infinite;
+    transition: all 0.25s ease;
+}
+.earth:hover ~ .earth-menu{
+    display: block;
+    opacity: 0.8;
+}
+.mars{
+    height: 55px;
+    width: 55px;
+    border-radius: 50%;
+    background: url(resources/mars.gif);
+    background-size:115%;
+    background-position: 50% 50%;
+    position: absolute;
+    align-self: center;
+    margin: 165px;
+    animation: mars-orbit 30s linear infinite;
+    transition: all 0.25s ease;
+}
+.mars:hover ~ .mars-menu{
+    display: block;
+    opacity: 0.8;
+}
+.earth:hover{
+    animation-play-state:paused;
+    height: 200px;
+    width: 200px;
+}
+.earth:hover .moon{
+    opacity: 0;
+}
+.venus:hover{
+    animation-play-state:paused;
+    height: 200px;
+    width: 200px;
+}
+.mercury:hover{
+    animation-play-state:paused;
+    height: 200px;
+    width: 200px;
+}
+.mars:hover{
+    animation-play-state:paused;
+    height: 200px;
+    width: 200px;
+}
+.moon{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    position: relative;
+    background: url(resources/moon.gif);
+    background-size: cover;
+    animation: moon-orbit 3s linear infinite;
+}
+@keyframes mercury-orbit{
+    from{
+        transform: rotate(0deg) translateX(200px)rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg) translateX(200px)rotate(-360deg);
+    }
+}
+@keyframes venus-orbit{
+    from{
+        transform: rotate(0deg) translateX(300px)rotate(0deg);
+    }
+    to{
+        transform: rotate(-360deg) translateX(300px)rotate(360deg);
+    }
+}
+@keyframes earth-orbit{
+    from{
+        transform: rotate(0deg) translateX(400px)rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg) translateX(400px)rotate(-360deg);
+    }
+}
+@keyframes moon-orbit{
+    from{
+        transform: rotate(0deg) translateX(500%)rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg) translateX(500%)rotate(-360deg);
+    }
+}
+@keyframes mars-orbit{
+    from{
+        transform: rotate(0deg) translateX(550px)rotate(0deg);
+    }
+    to{
+        transform: rotate(-360deg) translateX(550px)rotate(360deg);
+    }
+}
