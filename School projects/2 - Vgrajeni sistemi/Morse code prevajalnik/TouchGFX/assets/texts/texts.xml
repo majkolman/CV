@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.22.1">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1">
+      <Text Id="ResourceId1" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Hello World</Translation>
+      </Text>
+    </TextGroup>
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_6HEZ" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">1 -&gt; .----&#10;2 -&gt; ..---&#10;3 -&gt; ...--&#10;4 -&gt; ....-&#10;5 -&gt; .....&#10;6 -&gt; -....&#10;7 -&gt; --...&#10;8 -&gt; ---..&#10;9 -&gt; ----.&#10;0 -&gt; -----</Translation>
+      </Text>
+      <Text Id="__SingleUse_QYK6" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">S -&gt; ...&#10;T -&gt; -&#10;U -&gt; ..-&#10;V -&gt; ...-&#10;W -&gt; .--&#10;X -&gt; -..-&#10;Y -&gt; -.--&#10;Z -&gt; --..</Translation>
+      </Text>
+      <Text Id="__SingleUse_HTCZ" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">K -&gt; -.-&#10;L -&gt; .-..&#10;M -&gt; --&#10;N -&gt; -.&#10;O -&gt; ---&#10;P -&gt; .--.&#10;Q -&gt; --.-&#10;R -&gt; .-.</Translation>
+      </Text>
+      <Text Id="__SingleUse_7CW9" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">A -&gt; .-&#10;B -&gt; -...&#10;C -&gt; -.-.&#10;D -&gt; -..&#10;E -&gt; .&#10;F -&gt; ..-.&#10;G -&gt; --.&#10;H -&gt; ....&#10;I -&gt; ..&#10;J -&gt; .---</Translation>
+      </Text>
+      <Text Id="__SingleUse_KDE8" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Zbriši</Translation>
+      </Text>
+      <Text Id="__SingleUse_R9V3" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Prevajalnik Morse&#10;Abecede</Translation>
+      </Text>
+      <Text Id="__SingleUse_4AGS" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Nazaj</Translation>
+      </Text>
+      <Text Id="__SingleUse_FKO7" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">/ &gt;= 1500ms</Translation>
+      </Text>
+      <Text Id="__SingleUse_XZ0P" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Čas med pritiski:</Translation>
+      </Text>
+      <Text Id="__SingleUse_B9VO" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Čas pritiska:</Translation>
+      </Text>
+      <Text Id="__SingleUse_2O6P" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">500ms &lt;= ' ' &lt; 1500ms</Translation>
+      </Text>
+      <Text Id="__SingleUse_6EV9" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">- &gt; 200ms</Translation>
+      </Text>
+      <Text Id="__SingleUse_JVP5" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">. &lt;= 200ms</Translation>
+      </Text>
+      <Text Id="__SingleUse_5QBF" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">S pomočjo modrega gumba prevede it signala v obliki morsove abecede v ASCII znake</Translation>
+      </Text>
+      <Text Id="__SingleUse_7B4Y" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">To se prikaze s pomočjo LED lučk</Translation>
+      </Text>
+      <Text Id="__SingleUse_2FBT" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">S pomočjo UART znake A-Z, 0-9 in ' ' prevede v morsovo abecedo</Translation>
+      </Text>
+      <Text Id="__SingleUse_OE44" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Morse -&gt; ASCII</Translation>
+      </Text>
+      <Text Id="__SingleUse_J4YM" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">ASCII -&gt; Morse</Translation>
+      </Text>
+      <Text Id="__SingleUse_UYLW" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Navodila</Translation>
+      </Text>
+      <Text Id="__SingleUse_XAH2" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_X9I5" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_K3VZ" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Prevedeno:</Translation>
+      </Text>
+      <Text Id="__SingleUse_321E" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_P7F8" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_RS0G" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Vnesen Morse:</Translation>
+      </Text>
+      <Text Id="__SingleUse_OEZ9" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_TZR6" Alignment="Center" TypographyId="time">
+        <Translation Language="GB">&lt;value&gt;ms</Translation>
+      </Text>
+      <Text Id="__SingleUse_9B05" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Time Between:</Translation>
+      </Text>
+      <Text Id="__SingleUse_04Q1" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Time Pressed:</Translation>
+      </Text>
+      <Text Id="__SingleUse_ZUO8" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Vnesena Beseda:</Translation>
+      </Text>
+      <Text Id="__SingleUse_RZPI" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_HAET" Alignment="Center" TypographyId="time">
+        <Translation Language="GB">&lt;value&gt;ms</Translation>
+      </Text>
+      <Text Id="__SingleUse_96ZE" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_9N58" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0x000-0xFFF" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="time" Font="verdana.ttf" Size="20" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9" />
+    <Typography Id="morse" Font="verdana.ttf" Size="20" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+  </Typographies>
+</TextDatabase>
