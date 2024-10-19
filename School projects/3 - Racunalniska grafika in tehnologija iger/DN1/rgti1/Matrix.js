@@ -4,15 +4,11 @@ export function multiply(a, b) {
 
     let mode;
     //assume matrix is either 4*4 or its a vector length 4
-    if(a_size = b_size){
+    if(a_size === b_size && Array.isArray(a[0]) && Array.isArray(b[0])){
         //matrix * matrix
         mode = 0;
-    }else if(a_size > b_size){
-        //matrix * vector
+    }else {
         mode = 1;
-    }else{
-        //vector * matrix
-        mode = 2;
     }
     const result = [];
     let mat_size = a.length; 
@@ -39,10 +35,6 @@ export function multiply(a, b) {
                 }
                 result[i] = mult;
             }
-            break;
-
-        case 2:
-            console.log("Error with multiplication");
             break;
     }
     return result;
@@ -131,4 +123,11 @@ export function viewport(x, y, w, h) {
     // IMPLEMENT
     // HINT: you may have to flip the image upside down,
     // because the Y axis points down on the canvas
+    return [
+        [w / 2, 0, 0, x + w / 2],
+        [0, -h / 2, 0, y + h / 2],  // Flipping the Y-axis
+        [0, 0, 1, 0],
+        [0, 0, 0, 1],
+    ];
+
 }
