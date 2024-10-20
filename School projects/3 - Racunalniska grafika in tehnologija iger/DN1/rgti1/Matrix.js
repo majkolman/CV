@@ -109,11 +109,11 @@ export function rotationZ(angle) {
 
 export function perspective(fov, aspect, near, far) {
     // HINT: as in lecture slides, assume d = 1
-    let h = 2*Math.tan(fov/2);
+    let h = 2.0 * Math.tan(fov/2);
     let w = aspect * h;
     return [
         [2/w, 0, 0, 0],
-        [0, 2/near, 0, 0],
+        [0, 2/h, 0, 0],
         [0, 0, far/(near-far), (far*near)/(near-far)],
         [0, 0, -1, 0],
     ];

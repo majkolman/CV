@@ -13,19 +13,19 @@ export function getForwardTransform({
     // 5. translate
     let mat = Matrix.identity();
 
-    let mat_s = Matrix.scale(scale);
+    let mat_s = Matrix.scale(scale[0], scale[1], scale[2]);
     mat = Matrix.multiply(mat_s, mat);
 
     let mat_rx = Matrix.rotationX(rotation[0]);
     mat = Matrix.multiply(mat_rx, mat);
 
-    let mat_ry = Matrix.rotationX(rotation[1]);
+    let mat_ry = Matrix.rotationY(rotation[1]);
     mat = Matrix.multiply(mat_ry, mat);
 
-    let mat_rz = Matrix.rotationX(rotation[2]);
+    let mat_rz = Matrix.rotationZ(rotation[2]);
     mat = Matrix.multiply(mat_rz, mat);
 
-    let mat_t = Matrix.translation(translation);
+    let mat_t = Matrix.translation(translation[0], translation[1], translation[2]);
     mat = Matrix.multiply(mat_t, mat);
 
     return mat;
@@ -44,16 +44,16 @@ export function getInverseTransform({
     let mat_t = Matrix.translation(-translation[0], -translation[1], -translation[2]);
     mat = Matrix.multiply(mat_t, mat);
 
-    let mat_rz = Matrix.rotationX(-rotation[2]);
+    let mat_rz = Matrix.rotationZ(-rotation[2]);
     mat = Matrix.multiply(mat_rz, mat);
 
-    let mat_ry = Matrix.rotationX(-rotation[1]);
+    let mat_ry = Matrix.rotationY(-rotation[1]);
     mat = Matrix.multiply(mat_ry, mat);
 
     let mat_rx = Matrix.rotationX(-rotation[0]);
     mat = Matrix.multiply(mat_rx, mat);
 
-    let mat_s = Matrix.scale(-scale[0], -scale[1], -scale[2]);
+    let mat_s = Matrix.scale(1 / scale[0], 1 / scale[1], 1 / scale[2]);
     mat = Matrix.multiply(mat_s, mat);
     
     return mat;
