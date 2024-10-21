@@ -23,6 +23,9 @@ export class Animator {
         if(this.keys["s"])model.transform.rotation[0] = (model.transform.rotation[0] + this.rotation_speed) % 360;
         if(this.keys["a"])model.transform.rotation[1] = (model.transform.rotation[1] - this.rotation_speed) % 360;
         if(this.keys["d"])model.transform.rotation[1] = (model.transform.rotation[1] + this.rotation_speed) % 360;
+
+        if(this.keys["g"])model.transform.scale = model.transform.scale.map(scale => scale + this.rotation_speed);
+        if(this.keys["f"])model.transform.scale = model.transform.scale.map(scale => scale - this.rotation_speed);
         /*
         model.transform.rotation[1] = (model.transform.rotation[1] + 0.01) % 360;
         model.transform.rotation[2] = (model.transform.rotation[2] + 0.01) % 360;
