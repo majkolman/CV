@@ -14,3 +14,12 @@ Organizacija racunalniskih sistemov: Assignments in C
 Principi programskih jezikov: Assignments in Prolog and Ocaml
 
 Teorija informacije in sistemov: Assignments in Python
+
+Multimedijski sistemi: Assignments in Python using Jupyter Notebook.
+    Focused on image, video and audio processing
+
+Računalniska grafika: JavaScript and Unity, focused on how games are made.
+    Games made with:
+      JavaScript and WebGPU,
+      Unity
+    These were group projects working in groups of 3
