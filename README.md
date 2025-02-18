@@ -47,3 +47,4 @@ Welcome to my repository! This is a collection of my school and private projects
 
 ## ❓ Questions?
 Feel free to reach out if you have any questions!
+You can contact me on my email: maj.kolman98@gmail.com
