@@ -4,3 +4,6 @@
 [submodule "School projects/3 - Racunalniska grafika/Jumper"]
 	path = School projects/3 - Racunalniska grafika/Jumper
 	url = https://github.com/nc-fri/Jumper.git
+[submodule "School projects/1 - Osnove informacijskih sistemov/DN-majkolman"]
+	path = School projects/1 - Osnove informacijskih sistemov/DN-majkolman
+	url = https://github.com/OIS-2022-2023/DN-majkolman.git
