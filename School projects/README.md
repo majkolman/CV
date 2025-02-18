@@ -1,6 +1,6 @@
 # School Projects
 
-This repository contains my school projects organized by year and course. Each folder is prefixed with the year I took the course. Below is a breakdown of the notable projects and assignments.
+This folder contains my school projects organized by year and course. Each folder is prefixed with the year I took the course. Below is a breakdown of the notable projects and assignments.
 ---
 
 ## 📁 Folder Structure
