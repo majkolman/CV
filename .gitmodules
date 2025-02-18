@@ -1,3 +1,6 @@
 [submodule "School projects/3 - Racunalniska grafika/Jumper-Unity"]
 	path = School projects/3 - Racunalniska grafika/Jumper-Unity
 	url = https://github.com/majkolman/Jumper-Unity.git
+[submodule "School projects/3 - Racunalniska grafika/Jumper"]
+	path = School projects/3 - Racunalniska grafika/Jumper
+	url = https://github.com/nc-fri/Jumper.git
