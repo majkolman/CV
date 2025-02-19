@@ -80,3 +80,9 @@ This folder contains my school projects organized by year and course. Each folde
   - Games developed using **JavaScript and WebGPU**.
   - Games developed using **Unity**.
 - **Collaboration**: Group projects (teams of 3).
+
+---
+
+### **Osnove oblikovanja (Introduction to Graphics Design)**
+- **Description**: The basics of graphic design.
+- **Technologies**: Inkscape
