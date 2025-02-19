@@ -13,7 +13,7 @@ This folder contains my school projects organized by year and course. Each folde
 
 ## 🛠️ Technologies Used
 - **Languages**: C, C++, C#, Java, Python, JavaScript, Prolog, OCaml, Bash
-- **Frameworks/Tools**: Unity, WebGPU, Jupyter Notebook
+- **Frameworks/Tools**: Unity, WebGPU, Jupyter Notebook, Inkscape
 
 ---
 
