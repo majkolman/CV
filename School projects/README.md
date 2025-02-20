@@ -67,19 +67,10 @@ This folder contains my school projects organized by year and course. Each folde
 - **Technologies**: C, STMcube IDE
 
 ---
+
 ### **Multimedijski sistemi (Multimedia Systems)**
 - **Description**: Assignments focused on image, video, and audio processing using Python and Jupyter Notebook.
 - **Technologies**: Python, Jupyter Notebook
-
----
-
-### **Računalniška grafika (Computer Graphics)**
-- **Description**: Projects focused on game development and computer graphics.
-- **Technologies**: JavaScript, WebGPU, Unity
-- **Projects**:
-  - Games developed using **JavaScript and WebGPU**.
-  - Games developed using **Unity**.
-- **Collaboration**: Group projects (teams of 3).
 
 ---
 
@@ -92,3 +83,13 @@ This folder contains my school projects organized by year and course. Each folde
 ### **Programiranje specificnih platform (Platform based development)**
 - **Description**: -Ongoing course
 - **Technologies**: Arduino
+
+---
+
+### **Računalniška grafika (Computer Graphics)**
+- **Description**: Projects focused on game development and computer graphics.
+- **Technologies**: JavaScript, WebGPU, Unity
+- **Projects**:
+  - Games developed using **JavaScript and WebGPU**.
+  - Games developed using **Unity**.
+- **Collaboration**: Group projects (teams of 3).
