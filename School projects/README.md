@@ -86,3 +86,9 @@ This folder contains my school projects organized by year and course. Each folde
 ### **Osnove oblikovanja (Introduction to Graphics Design)**
 - **Description**: The basics of graphic design.
 - **Technologies**: Inkscape
+
+---
+
+### **Programiranje specificnih platform (Platform based development)**
+- **Description**: -Ongoing course
+- **Technologies**: Arduino
