@@ -14,6 +14,13 @@ Welcome to my repository! This is a collection of my school and private projects
 - **Resume.pdf**: My English resume in PDF format.
 - **Živijenjepis.pdf**: My CV in PDF format.
 
+  ### Notable folders:
+    #### School projects:  
+    - `Operacijski sistemi`: Full-year project in C.
+    - `Vgrajeni sistemi`: Embedded systems project.
+    - `Računalniška grafika`: Two games made in JS and Unity.
+---
+
 ---
 
 ## 📄 Files Overview
