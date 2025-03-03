@@ -19,8 +19,7 @@ Welcome to my repository! This is a collection of my school and private projects
     - `Operacijski sistemi`: Full-year project in C.
     - `Vgrajeni sistemi`: Embedded systems project.
     - `Računalniška grafika`: Two games made in JS and Unity.
----
-
+      
 ---
 
 ## 📄 Files Overview
