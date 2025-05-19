@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="480"
+   height="480"
+   viewBox="0 0 127 127"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="drawing.svg"
+   inkscape:export-batch-path="C:\Users\Maj\Desktop\Git repo\CV\School projects\3 - Osnove oblikovanja\Assignment 2\Animation 8 - simetrija_barvni-ton-in-nasicenost"
+   inkscape:export-batch-name="batch"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.7162218"
+     inkscape:cx="253.75508"
+     inkscape:cy="246.76298"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 0,63.499999 H 127"
+       id="path1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 63.499999,0 V 127"
+       id="path2" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 63.499999,63.499999 127,127"
+       id="path3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 95.249999,95.249999 V 0"
+       id="path4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 63.499999,63.499999 0,0"
+       id="path5" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 31.75,31.75 V 127"
+       id="path6" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 95.249999,95.249999 H 0"
+       id="path7" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 31.75,31.75 H 127"
+       id="path8" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="0">
+    <rect
+       style="opacity:0.5;fill:#00ff04;stroke-width:0.264583;stroke-linejoin:round;fill-opacity:1"
+       id="rect1"
+       width="127"
+       height="127"
+       x="0"
+       y="0" />
+    <circle
+       style="fill:#b69cff;stroke-width:0.26197;stroke-linejoin:round;fill-opacity:1"
+       id="path9"
+       cx="31.619999"
+       cy="63.480003"
+       r="7.5" />
+    <circle
+       style="fill:#b69cff;stroke-width:0.26197;stroke-linejoin:round;fill-opacity:1"
+       id="circle9"
+       cx="95.25"
+       cy="63.5"
+       r="7.5" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g11"
+     inkscape:label="1">
+    <rect
+       style="opacity:0.5;fill:#00ff04;stroke-width:0.264583;stroke-linejoin:round;fill-opacity:1"
+       id="rect9"
+       width="127"
+       height="127"
+       x="0"
+       y="0" />
+    <circle
+       style="fill:#b69cff;fill-opacity:1;stroke-width:0.26197;stroke-linejoin:round"
+       id="circle10"
+       cx="31.75"
+       cy="70.978737"
+       r="7.5" />
+    <circle
+       style="fill:#b69cff;fill-opacity:1;stroke-width:0.26197;stroke-linejoin:round"
+       id="circle11"
+       cx="95.25"
+       cy="56"
+       r="7.5" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g13"
+     inkscape:label="2">
+    <rect
+       style="opacity:0.5;fill:#00ff04;stroke-width:0.264583;stroke-linejoin:round;fill-opacity:1"
+       id="rect11"
+       width="127"
+       height="127"
+       x="0"
+       y="0" />
+    <circle
+       style="fill:#b69cff;fill-opacity:1;stroke-width:0.26197;stroke-linejoin:round"
+       id="circle12"
+       cx="31.75"
+       cy="78.478737"
+       r="7.5" />
+    <circle
+       style="fill:#b69cff;fill-opacity:1;stroke-width:0.26197;stroke-linejoin:round"
+       id="circle13"
+       cx="95.25"
+       cy="48.5"
+       r="7.5" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g15"
+     inkscape:label="3">
+    <rect
+       style="opacity:0.5;fill:#00ff04;stroke-width:0.264583;stroke-linejoin:round;fill-opacity:1"
+       id="rect13"
+       width="127"
+       height="127"
+       x="0"
+       y="0" />
+    <circle
+       style="fill:#b69cff;fill-opacity:1;stroke-width:0.26197;stroke-linejoin:round"
+       id="circle14"
+       cx="31.75"
+       cy="85.978737"
+       r="7.5" />
+    <circle
+       style="fill:#b69cff;fill-opacity:1;stroke-width:0.26197;stroke-linejoin:round"
+       id="circle15"
+       cx="95.25"
+       cy="41"
+       r="7.5" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g17"
+     inkscape:label="4">
+    <rect
+       style="opacity:0.5;fill:#00ff04;stroke-width:0.264583;stroke-linejoin:round;fill-opacity:1"
+       id="rect15"
+       width="127"
+       height="127"
+       x="0"
+       y="0" />
+    <circle
+       style="fill:#b69cff;fill-opacity:1;stroke-width:0.26197;stroke-linejoin:round"
+       id="circle16"
+       cx="31.75"
+       cy="95.25"
+       r="7.5" />
+    <circle
+       style="fill:#b69cff;fill-opacity:1;stroke-width:0.26197;stroke-linejoin:round"
+       id="circle17"
+       cx="95.25"
+       cy="31.75"
+       r="7.5" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g19"
+     inkscape:label="5">
+    <rect
+       style="opacity:0.5;fill:#00ff04;stroke-width:0.264583;stroke-linejoin:round;fill-opacity:1"
+       id="rect17"
+       width="127"
+       height="127"
+       x="0"
+       y="0" />
+    <circle
+       style="fill:#b69cff;fill-opacity:1;stroke-width:0.26197;stroke-linejoin:round"
+       id="circle18"
+       cx="39.25"
+       cy="95.25"
+       r="7.5" />
+    <circle
+       style="fill:#b69cff;fill-opacity:1;stroke-width:0.26197;stroke-linejoin:round"
+       id="circle19"
+       cx="87.75"
+       cy="31.75"
+       r="7.5" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g21"
+     inkscape:label="6">
+    <rect
+       style="opacity:0.5;fill:#00ff04;stroke-width:0.264583;stroke-linejoin:round;fill-opacity:1"
+       id="rect19"
+       width="127"
+       height="127"
+       x="0"
+       y="0" />
+    <circle
+       style="fill:#b69cff;fill-opacity:1;stroke-width:0.26197;stroke-linejoin:round"
+       id="circle20"
+       cx="46.75"
+       cy="95.25"
+       r="7.5" />
+    <circle
+       style="fill:#b69cff;fill-opacity:1;stroke-width:0.26197;stroke-linejoin:round"
+       id="circle21"
+       cx="80.25"
+       cy="31.75"
+       r="7.5" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g23"
+     inkscape:label="7">
+    <rect
+       style="opacity:0.5;fill:#00ff04;stroke-width:0.264583;stroke-linejoin:round;fill-opacity:1"
+       id="rect21"
+       width="127"
+       height="127"
+       x="0"
+       y="0" />
+    <circle
+       style="fill:#b69cff;fill-opacity:1;stroke-width:0.26197;stroke-linejoin:round"
+       id="circle22"
+       cx="54.25"
+       cy="95.25"
+       r="7.5" />
+    <circle
+       style="fill:#b69cff;fill-opacity:1;stroke-width:0.26197;stroke-linejoin:round"
+       id="circle23"
+       cx="72.75"
+       cy="31.75"
+       r="7.5" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g25"
+     inkscape:label="8">
+    <rect
+       style="opacity:0.5;fill:#00ff04;stroke-width:0.264583;stroke-linejoin:round;fill-opacity:1"
+       id="rect23"
+       width="127"
+       height="127"
+       x="0"
+       y="0" />
+    <circle
+       style="fill:#b69cff;fill-opacity:1;stroke-width:0.26197;stroke-linejoin:round"
+       id="circle24"
+       cx="63.5"
+       cy="95.25"
+       r="7.5" />
+    <circle
+       style="fill:#b69cff;fill-opacity:1;stroke-width:0.26197;stroke-linejoin:round"
+       id="circle25"
+       cx="63.5"
+       cy="31.75"
+       r="7.5" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g29"
+     inkscape:label="9"
+     transform="matrix(-1,0,0,1,127,0)">
+    <rect
+       style="opacity:0.5;fill:#00ff04;fill-opacity:1;stroke-width:0.264583;stroke-linejoin:round"
+       id="rect28"
+       width="127"
+       height="127"
+       x="0"
+       y="0" />
+    <circle
+       style="fill:#b69cff;fill-opacity:1;stroke-width:0.26197;stroke-linejoin:round"
+       id="circle28"
+       cx="54.25"
+       cy="95.25"
+       r="7.5" />
+    <circle
+       style="fill:#b69cff;fill-opacity:1;stroke-width:0.26197;stroke-linejoin:round"
+       id="circle29"
+       cx="72.75"
+       cy="31.75"
+       r="7.5" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g31"
+     inkscape:label="10"
+     transform="matrix(-1,0,0,1,127,0)">
+    <rect
+       style="opacity:0.5;fill:#00ff04;fill-opacity:1;stroke-width:0.264583;stroke-linejoin:round"
+       id="rect29"
+       width="127"
+       height="127"
+       x="0"
+       y="0" />
+    <circle
+       style="fill:#b69cff;fill-opacity:1;stroke-width:0.26197;stroke-linejoin:round"
+       id="circle30"
+       cx="46.75"
+       cy="95.25"
+       r="7.5" />
+    <circle
+       style="fill:#b69cff;fill-opacity:1;stroke-width:0.26197;stroke-linejoin:round"
+       id="circle31"
+       cx="80.25"
+       cy="31.75"
+       r="7.5" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g33"
+     inkscape:label="11"
+     transform="matrix(-1,0,0,1,127,0)">
+    <rect
+       style="opacity:0.5;fill:#00ff04;fill-opacity:1;stroke-width:0.264583;stroke-linejoin:round"
+       id="rect31"
+       width="127"
+       height="127"
+       x="0"
+       y="0" />
+    <circle
+       style="fill:#b69cff;fill-opacity:1;stroke-width:0.26197;stroke-linejoin:round"
+       id="circle32"
+       cx="39.25"
+       cy="95.25"
+       r="7.5" />
+    <circle
+       style="fill:#b69cff;fill-opacity:1;stroke-width:0.26197;stroke-linejoin:round"
+       id="circle33"
+       cx="87.75"
+       cy="31.75"
+       r="7.5" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g35"
+     inkscape:label="12"
+     transform="matrix(-1,0,0,1,127,0)">
+    <rect
+       style="opacity:0.5;fill:#00ff04;fill-opacity:1;stroke-width:0.264583;stroke-linejoin:round"
+       id="rect33"
+       width="127"
+       height="127"
+       x="0"
+       y="0" />
+    <circle
+       style="fill:#b69cff;fill-opacity:1;stroke-width:0.26197;stroke-linejoin:round"
+       id="circle34"
+       cx="31.75"
+       cy="95.25"
+       r="7.5" />
+    <circle
+       style="fill:#b69cff;fill-opacity:1;stroke-width:0.26197;stroke-linejoin:round"
+       id="circle35"
+       cx="95.25"
+       cy="31.75"
+       r="7.5" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g37"
+     inkscape:label="13"
+     transform="matrix(-1,0,0,1,127,0)">
+    <rect
+       style="opacity:0.5;fill:#00ff04;fill-opacity:1;stroke-width:0.264583;stroke-linejoin:round"
+       id="rect35"
+       width="127"
+       height="127"
+       x="0"
+       y="0" />
+    <circle
+       style="fill:#b69cff;fill-opacity:1;stroke-width:0.26197;stroke-linejoin:round"
+       id="circle36"
+       cx="31.75"
+       cy="85.978737"
+       r="7.5" />
+    <circle
+       style="fill:#b69cff;fill-opacity:1;stroke-width:0.26197;stroke-linejoin:round"
+       id="circle37"
+       cx="95.25"
+       cy="41"
+       r="7.5" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g39"
+     inkscape:label="14"
+     transform="matrix(-1,0,0,1,127,0)">
+    <rect
+       style="opacity:0.5;fill:#00ff04;fill-opacity:1;stroke-width:0.264583;stroke-linejoin:round"
+       id="rect37"
+       width="127"
+       height="127"
+       x="0"
+       y="0" />
+    <circle
+       style="fill:#b69cff;fill-opacity:1;stroke-width:0.26197;stroke-linejoin:round"
+       id="circle38"
+       cx="31.75"
+       cy="78.478737"
+       r="7.5" />
+    <circle
+       style="fill:#b69cff;fill-opacity:1;stroke-width:0.26197;stroke-linejoin:round"
+       id="circle39"
+       cx="95.25"
+       cy="48.5"
+       r="7.5" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g41"
+     inkscape:label="15"
+     transform="matrix(-1,0,0,1,127,0)">
+    <rect
+       style="opacity:0.5;fill:#00ff04;fill-opacity:1;stroke-width:0.264583;stroke-linejoin:round"
+       id="rect39"
+       width="127"
+       height="127"
+       x="0"
+       y="0" />
+    <circle
+       style="fill:#b69cff;fill-opacity:1;stroke-width:0.26197;stroke-linejoin:round"
+       id="circle40"
+       cx="31.75"
+       cy="70.978737"
+       r="7.5" />
+    <circle
+       style="fill:#b69cff;fill-opacity:1;stroke-width:0.26197;stroke-linejoin:round"
+       id="circle41"
+       cx="95.25"
+       cy="56"
+       r="7.5" />
+  </g>
+</svg>
